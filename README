@@ -1,0 +1,1 @@
+The module prompter provides an easy way for a client to get an arbitrary number of lines of information from stdin. The prompt() function loops until the sentinal 'exit' is provided as input. All the responses before the sentinal are then returned as a list.
