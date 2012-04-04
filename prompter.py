@@ -7,6 +7,8 @@ def prompt():
 	newResponse = ""
 	promptList = []
 
+	print "Enter words into the list. Type 'exit' to end the program and return the list."
+
 	while True:
 		prompter = "%d. " % count
 		newResponse = raw_input(prompter)

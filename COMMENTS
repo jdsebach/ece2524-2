@@ -1,0 +1,6 @@
+Reviewer: Joseph Daniel Sebacher (jdsebach)
+Reviewee: John Ruffer (rokthework)
+Project: ece2524
+Files: prompter.py
+
+The source code is very well done. The idea of the code was to take a list of characters in and return the list when the word 'exit' was typed in. The code did exactly that and was kept simple to only one task. Python was a good choice for this project, as the hash list can be used for open ended lists and creates the exact size needed to be returned. The only complaint I had was that the client did not know what to do when first prompted into the program, as it had no intro printed. I had to break out of the program and read the source to figure out what was going on. Other than that, it was the best return list program ever.
